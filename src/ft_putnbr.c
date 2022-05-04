@@ -6,11 +6,11 @@
 /*   By: nmallett <nmallett@student.42quebec.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/28 13:41:11 by nmallett          #+#    #+#             */
-/*   Updated: 2022/04/28 13:41:59 by nmallett         ###   ########.fr       */
+/*   Updated: 2022/05/04 14:31:47 by nmallett         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-# include "../libft.h"
+#include "../libft.h"
 
 int	ft_putnbr(int n)
 {
